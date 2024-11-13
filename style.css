@@ -1,0 +1,32 @@
+html {
+background-color: #27374D;
+}
+.menu {
+    display: flex;
+    margin: 1rem;
+    gap: 1rem;
+    flex-direction: column;
+}
+.container {
+  display: flex;
+  gap: 1rem;
+  margin: 1rem;
+}
+.cart {
+width:inherit;
+border: #EEEEEE 0.1rem solid;
+}
+a {
+   border: 0.1rem double #9DB2BF;
+   padding: 0.2rem;
+   border-radius: 5rem;
+   
+   color: #27374D;
+   background-color: #9DB2BF;
+   text-align: center;
+   text-decoration: none;
+  }
+  a:hover {
+    color: #9DB2BF;
+    background-color: #27374D;
+  }
