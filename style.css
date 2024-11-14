@@ -4,13 +4,13 @@ body
   margin: 0px;
   padding: 0px;
 }
-#menu
+#container
 {
   display: flex;
   width: 100%;
   border: 0.1rem double #00ADB5;
   border-radius: 1rem;
-  height: 100vh;
+  height: 96vh;
   flex-direction:column;
   gap: 0.5rem;
 }
