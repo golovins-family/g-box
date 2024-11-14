@@ -14,11 +14,14 @@ background-color: #27374D;
 }
 .cart {
 width:inherit;
-border: #EEEEEE 0.1rem solid;
+    color: #27374D;
+   background-color: #9DB2BF;
+   text-align: center;
+border: #9DB2BF 0.1rem solid;
 }
 a {
    border: 0.1rem double #9DB2BF;
-   padding: 0.2rem;
+   padding: 0.5rem;
    border-radius: 5rem;
    
    color: #27374D;
