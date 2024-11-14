@@ -4,8 +4,7 @@ background-color: #27374D;
 .menu {
     display: flex;
     margin: 1rem;
-    gap: 1rem;
-    flex-direction: column;
+   flex-direction: column;
 }
 .container {
   display: flex;
