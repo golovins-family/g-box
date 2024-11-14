@@ -1,6 +1,7 @@
-html {
-background-color: #222831;
-margin: 0px;
+html 
+{
+  background-color: #222831;
+  margin: 0px;
 }
 #grid
 {
@@ -11,5 +12,10 @@ margin: 0px;
   height: 100vh;
   gap: 0.5rem;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: auto;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+}
+#menu
+{
+  background-color: #00ADB5;
+  color: #222831;
 }
