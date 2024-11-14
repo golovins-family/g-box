@@ -1,10 +1,15 @@
 html {
 background-color: #222831;
+margin: 0px;
 }
 #grid
 {
   display: grid;
-  width: 94%;
+  width: 100%;
   border: 0.1rem double #00ADB5;
-  height: 100vh;
+  border-radius: 2rem;
+  height: 94vh;
+  gap: 0.5rem;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
 }
