@@ -1,35 +1,3 @@
 html {
-background-color: #27374D;
+background-color: #222831;
 }
-.menu {
-    display: flex;
-    margin: 1rem;
-   
-    gap:1rem;
-        flex-direction: column;
-}
-.container {
-  display: flex;
-  gap: 1rem;
-  margin: 1rem;
-}
-.cart {
-width:80%;
-    color: #9DB2BF;
-   text-align: center;
-border: #9DB2BF 0.1rem double;
-}
-a {
-   border: 0.1rem double #9DB2BF;
-   padding: 0.5rem;
-   border-radius: 5rem;
-   
-   color: #27374D;
-   background-color: #9DB2BF;
-   text-align: center;
-   text-decoration: none;
-  }
-  a:hover {
-    color: #9DB2BF;
-    background-color: #27374D;
-  }
