@@ -4,7 +4,7 @@ background-color: #222831;
 #grid
 {
   display: grid;
-  width: 100%;
+  width: 94%;
   border: 0.1rem double #00ADB5;
   height: 100vh;
 }
