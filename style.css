@@ -11,12 +11,14 @@ body
   border: 0.1rem double #00ADB5;
   border-radius: 2rem;
   height: 100vh;
-  flex-direction: row;
+  flex-direction:column;
   gap: 0.5rem;
 }
 #item
 {
   background-color: #00ADB5;
+  align-items: center;
+  text-align: center;
   text-decoration: none;
   color: #222831;
 }
