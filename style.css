@@ -1,3 +1,8 @@
 html {
 background-color: #222831;
 }
+#grid
+{
+  width: 100%;
+  border: 0.1rem double #00ADB5;
+}
