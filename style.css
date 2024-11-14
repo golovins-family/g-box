@@ -13,9 +13,8 @@ background-color: #27374D;
   margin: 1rem;
 }
 .cart {
-width:inherit;
-    color: #27374D;
-   background-color: #9DB2BF;
+width:100%;
+    color: #9DB2BF;
    text-align: center;
 border: #9DB2BF 0.1rem solid;
 }
