@@ -1,18 +1,17 @@
-html 
+body 
 {
   background-color: #222831;
   margin: 0px;
+  padding: 0px;
 }
-#grid
+#menu
 {
-  display: grid;
+  display: flex;
   width: 100%;
   border: 0.1rem double #00ADB5;
   border-radius: 2rem;
   height: 100vh;
   gap: 0.5rem;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
 }
 #menu
 {
