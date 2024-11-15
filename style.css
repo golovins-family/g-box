@@ -44,13 +44,13 @@ html
 {
   background-color: red;
   grid-column: span 2;
-  border: #00ADB5 0.1 solid;
+  border: #00ADB5 0.1rem solid;
   border-radius: 5rem;
 }
 #footer
 {
   background-color: blue;
   grid-column: span 2;
-  border: #00ADB5 0.1 solid;
+  border: #00ADB5 0.1rem solid;
   border-radius: 5rem;
 }
