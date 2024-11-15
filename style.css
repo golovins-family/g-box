@@ -7,7 +7,6 @@ body
 #container
 {
   display: flex;
-  width: 100%;
   border: 0.1rem double #00ADB5;
   border-radius: 1rem;
   height: 96vh;
