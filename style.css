@@ -22,6 +22,7 @@ body
   height: 100vh;
   flex-direction:column;
   gap: 0.5rem;
+  grid-row: span 3;
 }
 #item
 {
@@ -39,8 +40,10 @@ body
 #header
 {
   background-color: red;
+  grid-column: span 2;
 }
 #footer
 {
   background-color: blue;
+  grid-column: span 2;
 }
