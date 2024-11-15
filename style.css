@@ -6,6 +6,7 @@ body
 }
 #container
 {
+  display: block;;
   border: 0.1rem double #00ADB5;
   border-radius: 1rem;
   height: 100vh;
