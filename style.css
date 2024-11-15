@@ -34,6 +34,13 @@ body
 }
 #cart
 {
-  width: 80%;
-  color: #00ADB5;
+  background-color: green;
+}
+#header
+{
+  background-color: red;
+}
+#footer
+{
+  background-color: blue;
 }
