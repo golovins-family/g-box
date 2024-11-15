@@ -12,6 +12,8 @@ body
   border: 0.1rem double #00ADB5;
   border-radius: 1rem;
   height: 98vh;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
 }
 #menu
 {
