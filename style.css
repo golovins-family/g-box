@@ -12,7 +12,7 @@ body
   border: 0.1rem double #00ADB5;
   border-radius: 1rem;
   height: 96vh;
-  gap: 3rem;
+  gap: 1rem;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
 }
@@ -37,14 +37,19 @@ body
 #cart
 {
   background-color: green;
+  border: #00ADB5 0.1 solid;
 }
 #header
 {
   background-color: red;
   grid-column: span 2;
+  border: #00ADB5 0.1 solid;
+  border-radius: 5rem;
 }
 #footer
 {
   background-color: blue;
   grid-column: span 2;
+  border: #00ADB5 0.1 solid;
+  border-radius: 5rem;
 }
