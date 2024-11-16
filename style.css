@@ -22,7 +22,7 @@ html
   display: flex;
   height: 100vh;
   flex-direction:column;
-  gap: 0.01rem;
+  gap: 0.06rem;
   grid-row: span 3;
 }
 #item
@@ -38,11 +38,14 @@ html
 #cart
 {
   background-color: green;
+  grid-column: span 2;
   border: #00ADB5 0.1 solid;
+  border-radius: 5rem;
 }
 #header
 {
   background-color: red;
+  height: 10vh;
   grid-column: span 2;
   border: #00ADB5 0.1rem solid;
   border-radius: 5rem;
@@ -50,6 +53,7 @@ html
 #footer
 {
   background-color: blue;
+  height: 10vh;
   grid-column: span 2;
   border: #00ADB5 0.1rem solid;
   border-radius: 5rem;
