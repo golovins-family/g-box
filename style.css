@@ -22,13 +22,12 @@ html
   display: flex;
   height: 100vh;
   flex-direction:column;
-  gap: 0.01rem;
   grid-row: span 3;
 }
 #item
 {
   width: auto;
-  margin: 0.5rem;
+  margin-left: 0.5rem;
   border-radius: 0.2rem;
   background-color: #00ADB5;
   text-align: center;
