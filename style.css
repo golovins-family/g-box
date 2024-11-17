@@ -16,13 +16,14 @@ html
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
   padding: 1rem;
+  align-items: center;
 }
 #menu
 {
   display: flex;
   height: 100vh;
   flex-direction:column;
-  gap: 0.06rem;
+  gap: 1rem;
   grid-row: span 3;
 }
 #item
