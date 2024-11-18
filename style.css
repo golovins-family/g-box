@@ -39,7 +39,7 @@ html
 #cart
 {
   background-color: green;
-  height: auto;
+  height: 40vh;
   grid-column: span 2;
   border: #00ADB5 0.1 solid;
   border-radius: 5rem;
