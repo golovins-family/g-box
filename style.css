@@ -25,6 +25,7 @@ html
   flex-direction:column;
   gap: 1rem;
   grid-row: span 3;
+  align-items: center;
 }
 #item
 {
