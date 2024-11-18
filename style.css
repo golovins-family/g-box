@@ -39,7 +39,7 @@ html
 }
 #cart
 {
-  background-color: green;
+  background-color: rgb(128, 0, 96);
   height: 40vh;
   grid-column: span 2;
   border: #00ADB5 0.1 solid;
