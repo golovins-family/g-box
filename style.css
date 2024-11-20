@@ -9,13 +9,11 @@ html
 #container
 {
   display: grid;
-  height: 100vh;
   gap: 1rem;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
   padding: 1rem;
-  align-items: center;
-}
+ }
 #menu
 {
   display: flex;
