@@ -41,7 +41,7 @@ html
 }
 #header
 {
-  background-color: red;
+  color:#00ADB5;
   height: 10vh;
   grid-column: span 2;
   border: #00ADB5 0.1rem solid;
@@ -49,7 +49,7 @@ html
 }
 #footer
 {
-  background-color: blue;
+  color:#00ADB5;
   height: 10vh;
   grid-column: span 2;
   border: #00ADB5 0.1rem solid;
