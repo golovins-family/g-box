@@ -44,6 +44,8 @@ html
   color:#00ADB5;
   height: 10vh;
   grid-column: span 2;
+  text-align: center;
+  vertical-align: middle;
   border: #00ADB5 0.1rem solid;
   border-radius: 5rem;
 }
@@ -52,6 +54,8 @@ html
   color:#00ADB5;
   height: 10vh;
   grid-column: span 2;
+  text-align: center;
+  vertical-align: middle;
   border: #00ADB5 0.1rem solid;
   border-radius: 5rem;
 }
